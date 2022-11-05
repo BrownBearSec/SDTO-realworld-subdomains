@@ -11,13 +11,17 @@ There are four wordlists:
 - ambiguous.txt
 - combined.txt
 
-1) internal.txt contains all subdomains which were observed to be vulnerable and looked like they were intended to be internal.
+---
 
-2) external.txt contains all subdomains which were observed to be vulnerable and looked like they were intended to be used for public facing assets.
+1) **internal.txt** contains all subdomains which were observed to be vulnerable and looked like they were intended to be internal.
 
-3) ambiguous.txt contains all subdomains which were observed to be vulnerable and I could not tell there purpose.
+2) **external.txt** contains all subdomains which were observed to be vulnerable and looked like they were intended to be used for public facing assets.
 
-4) combined.txt is a file containing all of the above subdomains.
+3) **ambiguous.txt** contains all subdomains which were observed to be vulnerable and I could not tell there purpose.
+
+4) **combined.txt** is a file containing all of the above subdomains.
+
+---
 
 If you thought this was useful, a free way to support me would be to follow me on:
 - https://twitter.com/_nynan
